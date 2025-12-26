@@ -127,5 +127,6 @@ export const metadata: Metadata = {
     "mobile-web-app-capable": "yes",
     "apple-mobile-web-app-capable": "yes",
     "apple-mobile-web-app-status-bar-style": "black-translucent",
+    "naver-site-verification": "1ebc57f2475c9d756892fcac2206a92577edd625", // 네이버 서치어드바이저 사이트 소유확인
   },
 };
